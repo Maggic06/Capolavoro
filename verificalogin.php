@@ -33,10 +33,14 @@
        echo("</tr>");
         $riga=mysqli_fetch_array($query);
     }
+    echo("</table>");
+    echo("<a href='index.html'><button>Torna all'index</button></a>");
+        exit();
+        
     echo("<a href='index.html'><button>Torna all'index</button></a>");
         exit();
         }
-        else{echo("User o password sbagliati");}
+    
         $riga=mysqli_fetch_array($query);
     }
     ?>
