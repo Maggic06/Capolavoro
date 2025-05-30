@@ -1,4 +1,4 @@
-/*Qui trovi tutti i file php da caricare nellla cartella htdocs di xampp!!*/
+/*Qui trovi tutti i file php da caricare nellla cartella htdocs di xampp!! Ricorda che dovrai poi digitare nella barra di ricerca del browser localhost/Nome_della_cartella_in_cui_hai_salvato_i_documenti_in_HTDOCS*/
 /*Questo è il codice che devi copiare ed incollare per creare e popolare il db utilizzando un pannello di interazione mysql:*/
 drop database if exists Musica;
 create database Musica;
